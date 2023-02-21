@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c499cd5c-3b0f-4087-b5b3-1803beede909" name="Changes" comment="Version 4 - Include Welcome4">
-      <change afterPath="$PROJECT_DIR$/src/Addition1.java" afterDir="false" />
+    <list default="true" id="c499cd5c-3b0f-4087-b5b3-1803beede909" name="Changes" comment="Version 5 - Include Addition1">
+      <change afterPath="$PROJECT_DIR$/src/Comparison1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Addition1">
+  <component name="RunManager" selected="Application.Comparison1">
     <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Addition" />
       <module name="JavaHowtoProgram" />
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Welcome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Welcome2" />
+    <configuration name="Comparison1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparison1" />
       <module name="JavaHowtoProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comparison1" />
         <item itemvalue="Application.Addition1" />
         <item itemvalue="Application.Addition" />
         <item itemvalue="Application.Welcome4" />
         <item itemvalue="Application.Welcome3" />
-        <item itemvalue="Application.Welcome2" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677005791184</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Version 5 - Include Addition1">
+      <created>1677006910896</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006910896</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +195,17 @@
     <MESSAGE value="Version 2 - Include Welcome2" />
     <MESSAGE value="Version 3 - Include Welcome3" />
     <MESSAGE value="Version 4 - Include Welcome4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 4 - Include Welcome4" />
+    <MESSAGE value="Version 5 - Include Addition1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 5 - Include Addition1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Addition1.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
