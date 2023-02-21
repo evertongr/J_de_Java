@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c499cd5c-3b0f-4087-b5b3-1803beede909" name="Changes" comment="Version 4 - Include Welcome4" />
+    <list default="true" id="c499cd5c-3b0f-4087-b5b3-1803beede909" name="Changes" comment="Version 4 - Include Welcome4">
+      <change afterPath="$PROJECT_DIR$/src/Addition1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +43,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Welcome4">
-    <configuration name="Welcome1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Welcome1" />
+  <component name="RunManager" selected="Application.Addition1">
+    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Addition" />
+      <module name="JavaHowtoProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Addition1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Addition1" />
       <module name="JavaHowtoProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,10 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Addition1" />
+        <item itemvalue="Application.Addition" />
         <item itemvalue="Application.Welcome4" />
         <item itemvalue="Application.Welcome3" />
         <item itemvalue="Application.Welcome2" />
-        <item itemvalue="Application.Welcome1" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +147,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677005635260</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Version 4 - Include Welcome4">
+      <created>1677005763362</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677005763362</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Version 4 - Include Welcome4">
+      <created>1677005778386</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677005778386</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Version 4 - Include Welcome4">
+      <created>1677005791184</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677005791184</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
