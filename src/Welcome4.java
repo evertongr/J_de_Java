@@ -12,4 +12,4 @@ public class Welcome4
     {
         System.out.printf("%s%n%s%n", "Welcome to", "Java Programming!");
     } // end the method
-} // end the main
+} // end the class
