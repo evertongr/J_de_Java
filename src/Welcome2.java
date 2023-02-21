@@ -13,4 +13,4 @@ public class Welcome2
         System.out.print("Welcome to ");
         System.out.println("Java Programming!");
     } // end the method
-} // end the main
+} // end the class
