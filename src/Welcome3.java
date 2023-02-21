@@ -12,4 +12,4 @@ public class Welcome3
     {
         System.out.println("Welcome\nto\nJava\nProgramming!");
     } // end the method
-} // end the main
+} // end the class
