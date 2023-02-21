@@ -3,7 +3,7 @@
 
 /* Object: Print the message of screen
    Develop by Everton
-   Develop in 02.21.2023 02?38 PM
+   Develop in 02.21.2023 02:38 PM
  */
 
 /* This is a traditional comment.
